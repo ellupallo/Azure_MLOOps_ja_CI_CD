@@ -1,0 +1,45 @@
+portal.azure.com >>> taitotalo tili
+
+
+MLOps stands for machine learning operations and 
+refers to the process of managing the machine learning life cycle, 
+from development to deployment and monitoring.
+
+DevOps (a portmanteau of “development” and “operations”) is 
+the combination of practices and tools designed to increase an organization's ability 
+to deliver applications and services faster than traditional software development processes.
+
+Continuous Integration and Continuous Delivery (CI/CD) 
+are terms used to describe a process where multiple changes are made to a codebase simultaneously.
+
+1 Reliability
+2 Security
+3 Cost Optimization
+4 Operational Excellence
+5 Performance Efficiency
+
++ mieti vielä Vendor Lock -> esim. miten helppo ympäristön siirtäminen on
+
+***************************************
+
+Automated Machine Learning & Tuning with FLAML in Microsoft Fabric
+https://2024.automl.cc/?page_id=1643
+
+***************************************
+
+What’s New in Microsoft Fabric? A Deep Dive into the Latest Features / 27.11.2024
+https://sqlyard.com/2024/11/27/whats-new-in-microsoft-fabric-a-deep-dive-into-the-latest-features/
+
+***************************************
+
+fabric-docs/docs/data-science
+/automated-ml-fabric.md
+
+https://github.com/MicrosoftDocs/fabric-docs/blob/main/docs/data-science/automated-ml-fabric.md
+
+***************************************
+
+What's new and planned for Fabric Data Science in Microsoft Fabric
+Article
+11/19/2024
+https://learn.microsoft.com/en-us/fabric/release-plan/data-science
