@@ -1,0 +1,11 @@
+Resources to Register in Subscription
+	Microsoft.Advisor
+	Microsoft.GuestConfiguration
+	Microsoft.PolicyInsights
+	Microsoft.Security
+
+Microsoft Learn - Hands On Exercises
+https://microsoftlearning.github.io/mslearn-azure-ml/
+	- Make data available in Azure Machine Learning
+	- Find the best classification model with Automated Machine Learning
+	- Perform hyperparameter tuning with a sweep job
